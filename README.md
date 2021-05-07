@@ -11,7 +11,7 @@ About Us
    
    We will be holding meetings! Once the frequency and dates are decided, those will be posted here.  
    
-   Although we have been encouraged to use proprietary platforms to promote our club, we do not believe in this.  Please help to promote us on Github, Mastodon, Diaspora, Friendica, IRC, Pleroma - honestly, we aren't interested in members that just use F***book.
+   Although we have been encouraged to use proprietary platforms to promote our club, we do not believe in this.  Please help to promote us using Github, Mastodon, Diaspora, Friendica, IRC, Pleroma, Matrix - we support open standards, and the fediverse.  Honestly, we aren't interested in members that just use F***book.
    
    Cheers!
    
