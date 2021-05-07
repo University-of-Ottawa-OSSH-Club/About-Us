@@ -1,7 +1,7 @@
 # About-Us
 About Us
 
-                        <span style="color:blue">some **The University of Ottawa Open Source Software and Hardware Club** text</span>  
+                       **The University of Ottawa Open Source Software and Hardware Club**
                                       
    Established in 2021, we are a group of University of Ottawa students, faculty and alumni that are interested in open source software and hardware.  If you do not know what that means/those are, but you are open to learning, you are welcome too. :)
    
