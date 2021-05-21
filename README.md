@@ -18,6 +18,6 @@ About Us
    Cheers!
    
    
-  ![image](https://user-images.githubusercontent.com/65868461/119195094-0fcb5300-ba52-11eb-9955-15e8723cb8e4.png)
+  ![image](https://user-images.githubusercontent.com/65868461/119195094-0fcb5300-ba52-11eb-9955-15e8723cb8e4.png) ![Alt Text](https://user-images.githubusercontent.com/65868461/119200030-237ab780-ba5a-11eb-8f2f-1cbc34408a9e.gif)
    
    
