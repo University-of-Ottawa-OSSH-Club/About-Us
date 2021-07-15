@@ -13,7 +13,7 @@ About Us
    
    Although we have been encouraged to use proprietary platforms to promote our club, we do not believe in this.  Please help to promote us using Github/Gitter, Mastodon, Diaspora, Friendica, IRC, Pleroma, Matrix - we support open standards, and the fediverse.  Honestly, we aren't interested in members that just use F***book.
    
-   For obvious reasons, we are no longer using Freenode.  If you are using IRC, please find us at #OSSH on EFNET!
+   For obvious reasons, we are no longer using Freenode.  If you are using IRC, please find us at #OSSH on Libera!
    
    Cheers!
    
